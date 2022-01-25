@@ -2,7 +2,7 @@
         <head>
                 <title>งานที่ 1</title>
         </head>
-        <body bgcolor="e1ebf8">
+        <body bgcolor="CCFFFF">
                 <h1>ประวัติส่วนตัว</h1>
                 <br>
                 <b>ชื่อ;</b> <i>ปภาวี สังข์ทอง</i>
