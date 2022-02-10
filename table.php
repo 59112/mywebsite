@@ -13,14 +13,14 @@
                         </tr>
                         <tr>
                                 <td>1</td>
-                                <td>kim hanbin</td>
+                                <td>KIM HANBIN</td>
                                 <td>ฮันบิน</td>
-                                <td><img src="https://pbs.twimg.com/media/E6eV739UcAEXNFs?format=jpg&name=large" width="130px"></td>
+                                <td><imgsrc="https://pbs.twimg.com/media/E6eV739UcAEXNFs?format=jpg&name=large" width="130px"></td>
                                 <td><a href="https://twitter.com/shxx131bi131?s=21">twitter</a></td>
                         </tr>
                         <tr>
                                 <td>2</td>
-                                <td>กานต์ธีรา วัชรทัศนกุล</td>
+                                <td>PARK CHAEYOUNG</td>
                                 <td>เนย</td>
                                 <td><img src="https://www.thebangkokinsight.com/wp-content/uploads/2021/02/batch_113-1.jpg" width="140px"></td>
                                 <td><a href="https://twitter.com/bnk48official">twitter</a></td>
